@@ -5,3 +5,21 @@ function destructivelyAppendKitten(name) {
   kittens.push("Ralph");
   return kittens;
 }
+function destructivelyPrependKitten(name) {
+  
+}
+function destructivelyRemoveLastKitten() {
+  
+}
+function destructivelyRemoveFirstKitten() {
+  
+}
+function appendKitten(name) {
+  
+}
+function prependKitten(name) {
+  
+}
+function removeLastKitten() {
+  
+}
